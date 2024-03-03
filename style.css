@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(239, 107, 231);
+}
+.sections{
+    background-color: #66f2ff;
+    padding: 10px;
+    width: 40%;
+    height: 250px;
+    margin: 30%;
+    text-align: center;
+}
+button{
+    width: 60px;
+    height: 20px;
+    background-color: #f3bb78;
+    border: 0.1;
+    border-radius: 20px;
+    border-style: solid;
+    margin-top: 4.2em;
+    border-width: 1px;
+}
+p{
+    margin-top: 2.5em;
+    font-size: 30px;
+}
+h1{
+    font-family: cursive;
+}
